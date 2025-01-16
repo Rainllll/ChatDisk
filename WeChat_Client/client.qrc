@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>client.config</file>
+    </qresource>
+    <qresource prefix="/new">
+        <file>sendPic.png</file>
+        <file>defaultPic.jpg</file>
+    </qresource>
+</RCC>
